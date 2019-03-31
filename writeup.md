@@ -56,7 +56,7 @@ You're reading it!
 - We have used a Euclidean Clustering to segment out objects.
 - Different objects are segmented based on the distance of point clouds in a cluster
 
-![Object segmentation](Images/exer-2.jpg)
+![Object segmentation](https://github.com/Shilpaj1994/3D-Perception/blob/master/Images/exer-2.JPG?raw=true)
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
 
@@ -72,15 +72,15 @@ You're reading it!
 
 - After training the model, we used it to test it on the RGBD camera data
 
-![Task](Images/world3_gazebo.jpg)
+![Task](https://github.com/Shilpaj1994/3D-Perception/blob/master/Images/world3_gazebo.JPG?raw=true)
 
-![Testing](Images/world3_rviz.jpg)
+![Testing](https://github.com/Shilpaj1994/3D-Perception/blob/master/Images/world3_rviz.JPG?raw=true)
 
 - The detection for other set of arrangement of objects:
 
-![World 2](Images/world2_rviz.jpg)
+![World 2](https://github.com/Shilpaj1994/3D-Perception/blob/master/Images/world2_rviz.JPG?raw=true)
 
-![World 1](Images/world-1_rviz.jpg)
+![World 1](https://github.com/Shilpaj1994/3D-Perception/blob/master/Images/world-1_rviz.JPG?raw=true)
 
 - In this way, the perception pipeline is implemented to recognize the objects and the distance of the objects.
 
